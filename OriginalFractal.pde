@@ -1,11 +1,11 @@
 public void setup()
 {
 size(600,600);
-
+background(39,164,226);
 }
 public void draw()
 {
-  background(39,164,226);
+  
    circle2(400,450,1);
   //circle2(500,570,1);
    circle3(400,430,1);
@@ -67,3 +67,6 @@ if(diam < 250){
 }
  
 }
+
+
+
