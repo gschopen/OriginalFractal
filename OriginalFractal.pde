@@ -6,7 +6,7 @@ background(39,164,226);
 public void draw()
 {
   fill(255,239,0);{
-   circle(430,450,300);
+   ellipse(430,450,300,300);
   }
   circle2(400,450,1,1);
   //circle2(500,570,1);
